@@ -1,5 +1,5 @@
 # Attention
-**This is a modified version of Jcw87's c2-sans-fight, except with harder attacks. The only changes were the attacks, some text, the "Infinite Loop Detected" function, and sprites, which means that you shouldn't be testing your own custom attacks here. Just go to https://kayos156.github.io/BoundFight to play!**
+**This is a modified version of Jcw87's c2-sans-fight, except with harder attacks. The only changes were the attacks, some text, the "Infinite Loop Detected" function, and sprites, which means that you shouldn't be testing your own custom attacks here. Just go to https://kayos156.github.io/BoundPacifist to play!**
 
 [**Wiki**](https://github.com/kayos156/BoundFight/wiki)
 ________________________________________________________________________________
@@ -12,18 +12,12 @@ ________________________________________________________________________________
 
 **Original: [Jcw87](https://github.com/Jcw87)**
 
-**Song Used: [SOLLICITUS I](https://soundcloud.com/ragher/swapped-realities-au-sollicitius-original)**
+**Song Used: [UNDERSWAP Passive Megalovania](https://www.youtube.com/watch?v=S8wUTBZLDZc)**
 
-**Song Creator: [Judge](https://soundcloud.com/ragher)**
+**Song Creator: [Partimehero 67](https://www.youtube.com/channel/UCX2efsbjbUxAiQ-4fwzOVPA)**
 
 **Final Attack(s): [Mush 2 Blue](https://www.youtube.com/channel/UCMHwpcP2P4AbV1tDgz5N5XA)**
 ________________________________________________________________________________
 
 # Updates
-**Increased HP to 99 to match with LV 20**
-
-**Switched Insane Bound Sprites to Sane Bound Sprites**
-
-**Switched ShrB Gaming's credit to Mush 2 Blue**
-
-**Switched Determination Soul to Hate Soul/Soulless Soul...?**
+**Decreased HP to 20 to match with LV 1**
