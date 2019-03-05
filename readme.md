@@ -12,12 +12,13 @@ ________________________________________________________________________________
 
 **Original: [Jcw87](https://github.com/Jcw87)**
 
-**Song Used: [UNDERSWAP Passive Megalovania](https://www.youtube.com/watch?v=S8wUTBZLDZc)**
+**Song Used: [UNDERSWAP - Nyeh Heh Heh! EXTENDED (Ver. 2 by DustyHyena)](https://www.youtube.com/watch?v=K0tNBJDeOes)**
 
-**Song Creator: [Partimehero 67](https://www.youtube.com/channel/UCX2efsbjbUxAiQ-4fwzOVPA)**
+**Song Creator: [DustyHyena](http://dustyhyena.tumblr.com)**
 
 **Final Attack(s): [Mush 2 Blue](https://www.youtube.com/channel/UCMHwpcP2P4AbV1tDgz5N5XA)**
 ________________________________________________________________________________
 
 # Updates
 **Decreased HP to 20 to match with LV 1**
+**Switched Soul Back to Normal**
