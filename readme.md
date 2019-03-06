@@ -25,3 +25,7 @@ ________________________________________________________________________________
 **Switched Soul Back to Normal**
 
 **Gave UI the UnderSwap treatment**
+
+**Made UI look better**
+
+**Made Soul look better**
