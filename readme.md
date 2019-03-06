@@ -4,7 +4,7 @@
 [**Wiki**](https://github.com/kayos156/BoundFight/wiki)
 ________________________________________________________________________________
 
-# Credit
+# Credits
 
 **Some attacks by: [estebanfer](https://www.reddit.com/user/estebanfer)**
 
@@ -20,12 +20,12 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 
 # Updates
-**Decreased HP to 20 to match with LV 1**
+* **Decreased HP to 20 to match with LV 1**
 
-**Switched Soul Back to Normal**
+* **Switched Soul Back to Normal**
 
-**Gave UI the UnderSwap treatment**
+* **Gave UI the UnderSwap treatment**
 
-**Made UI look better**
+* **Made UI look better**
 
-**Made Soul look better**
+* **Made Soul look better**
