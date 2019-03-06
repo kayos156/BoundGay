@@ -29,3 +29,5 @@ ________________________________________________________________________________
 * **Made UI look better**
 
 * **Made Soul look better**
+
+* **Switched 'Just another fool =)' text to "He likes to say: Heh heh heh!"
